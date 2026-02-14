@@ -1,4 +1,4 @@
-# AS Content Embed
+# Ayonto Content Embed
 
 Ermöglicht das Einbinden von WordPress-Seiten und Beiträgen via Script auf externen Seiten.  
 Das Plugin fügt einen **Kopieren-Button** in den Admin-Übersichten hinzu und stellt einen **REST-API-Endpunkt** für den Inhalt bereit.
@@ -28,4 +28,4 @@ Siehe die beiliegende [LICENSE](LICENSE)-Datei für Details.
 
 ---
 
-✍️ Entwickelt von [Marc Mirschel](https://mirschel.biz)
+✍️ Entwickelt von [Marc Mirschel - Ayonto UG](https://Ayon.to)
